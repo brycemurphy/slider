@@ -1,0 +1,8 @@
+node_modules
+/silverstripe-cache/
+.env
+/vendor/
+/resources/
+/public/assets/
+/public/resources/
+/themes/simple/dist
